@@ -16,5 +16,5 @@
 - `style.css` – styles and responsiveness
 - `script.js` – logic, mood feedback, audio, and mood log
 
-## 👩‍💻 Author
-Your Name – Tugas IMK 2025
+## Author
+Dara – Tugas IMK 
